@@ -1,5 +1,11 @@
-# Mission Statement Video Plan
-
+---
+title: Mission Statement Video Script
+draft: false
+tags:
+  - video
+  - project
+  - thetable
+---
 ## Script Outline
 
 ### Introduction (10 seconds)
@@ -8,27 +14,23 @@
 
 ### Mission Statement (20 seconds)
 - **Footage:** Church, pastor, and congregation.
-- **Voiceover:** "We are a Jesus-centered community, irrationally committed to the wellbeing of others and living in radical hospitality, all to God's glory and for His purposes."
+- **Voiceover:** "We are a Jesus-centered community, irrationally committed to the wellbeing of others and living in radical hospitality - all to God's glory and for His purposes."
 
-### Biblical Foundation (10 seconds)
-- **Footage:** Pastor reading scripture.
-- **Voiceover:** "Our Sunday services are biblically-based, focusing on the pure and powerful word of God."
+### Living the Mission (20 seconds)
+- **Footage:** Church members interacting within the community, participating in town activities, and providing hospitality.
+- **Voiceover:** "We live this out daily within our community and those around us. We aim to provide hospitality, opening our doors to show Jesus' love."
 
 ### Authentic Love and Community (10 seconds)
 - **Footage:** Church members interacting, smiling, and engaging in small group hangouts.
-- **Voiceover:** "We embrace each other with genuine love, no pretenses, just authentic relationships."
+- **Voiceover:** "We demonstrate our love for each other as Jesus taught, making it clear to others that we are His disciples."
 
-### Worship and Music (10 seconds)
-- **Footage:** Worship team playing instruments and congregation worshipping.
-- **Voiceover:** "Our worship team passionately leads us in expressing our love for Jesus through music."
+### Worship and Fellowship (10 seconds)
+- **Footage:** Worship team playing instruments, congregation worshipping, people sharing meals, and engaging in discussions.
+- **Voiceover:** "We enjoy worshiping God through song, sharing meals, engaging in discussions, and gathering in homes and our beautiful building."
 
-### Community Hub (10 seconds)
-- **Footage:** People gathering in the church's "living room" during the week.
-- **Voiceover:** "We are a living room for our community, a place to connect, commune, and grow together."
-
-### Invitation (10 seconds)
-- **Footage:** Ending shot of a welcoming gesture from church members.
-- **Voiceover:** "Join us as we grow in Jesus and in love towards each other. Be a part of our family in Lemont."
+### Invitation and Clever Ending (15 seconds)
+- **Footage:** Ending shot of a welcoming gesture from church members, followed by a beautiful shot of the church sign or logo that says "The Table."
+- **Voiceover:** "Join us as we grow in Jesus and in love towards each other. Be a part of our family in Lemont. There's always a place for you at The Table."
 
 ## Footage and Editing
 

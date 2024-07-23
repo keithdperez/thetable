@@ -1,8 +1,11 @@
 ---
-title: Welcome to The Table 
+id: index
+aliases: []
+tags: []
+title: Welcome to The Table!
 ---
 
-Welcome to The Table Church Operations Wiki! This is your go-to resource for all the procedures, guidelines, and helpful tips to ensure our church services run smoothly. Whether you're a new volunteer or a seasoned team member, you'll find everything you need right here.
+This is your go-to resource for all the procedures, guidelines, and helpful tips to ensure our church services run smoothly. Whether you're a new volunteer or a seasoned team member, you'll find everything you need right here.
 
 ## Getting Started
 If you're new here, start with our [Volunteer Orientation Guide](#) to get acquainted with our mission, values, and how you can contribute to our community.
