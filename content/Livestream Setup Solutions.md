@@ -1,3 +1,8 @@
+---
+title: Livestream Setup Solutions
+publish: true
+tags:
+---
 ### Current Setup Issues:
 - **ProPresenter**: Receiving video from Tongveo PTZ camera via Elgato CamLink 4K to Mac mini M1.
 - **Problems**: Audio dropouts and occasional crashes.
