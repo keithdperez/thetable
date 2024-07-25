@@ -50,7 +50,7 @@ This is the routing that most churches use in their ProPresenter setup, and it's
 
 ## Option 2: Mac mini Pro with M2 Chip
 
-Recently released, the new Mac mini M2 Pro now handles 3 native displays. Up until now, this was a limitation in the past for churches, especially when running 3 display outputs, as the Mac mini was limited to 2. Now, this opens up possibilities to keep what we have, as well as better USB bandwidth.
+Recently released, the new Mac mini M2 Pro [now handles 3 native displays.](https://www.apple.com/mac-mini/specs/) Up until now, this was a limitation in the past for churches, especially when running 3 display outputs, as the Mac mini was limited to 2. Now, this opens up possibilities to keep what we have, as well as better USB bandwidth.
 
 [(Equipment can be found here)](https://www.bhphotovideo.com/c/product/1746367-REG/apple_mnh73ll_a_mac_mini_with_m2.html)
 
