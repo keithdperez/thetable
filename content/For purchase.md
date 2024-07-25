@@ -1,3 +1,8 @@
+---
+title: For purchase
+publish: false
+tags:
+---
 ## Transferring website to Squarespace
 ### Subscription cost
 *Choose how often you would like to be billed. You can change the frequency of your billing cycle later.*

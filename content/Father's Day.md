@@ -1,6 +1,6 @@
 ---
 title: 20240708 - Five Ps
-draft: true
+publish: false
 tags:
 ---
 # SUMMARY

@@ -1,6 +1,6 @@
 ---
 title: Mission Statement Video
-draft: true
+publish: false
 tags:
 ---
 Capturing Moments at Church
