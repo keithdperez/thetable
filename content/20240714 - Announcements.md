@@ -1,3 +1,8 @@
+---
+title: 20240714 - Announcements
+publish: false
+tags:
+---
 **Good morning, everyone! Welcome to The Table!**
 
 I have a couple of important announcements for you this morning:
