@@ -1,15 +1,12 @@
 ---
 title: How to Operate ProPresenter
-draft: false
+publish: true
 tags:
   - thetable
   - propresenter
   - procedures
-date: 2024-07-11T15:04
-cssclasses:
 ---
-## Purpose
-This guide explains how to turn on the necessary equipment and operate ProPresenter for church services.
+This guide explains how to turn on the necessary equipment and operate ProPresenter for our church services.
 
 ## Prerequisites
 - Access to the computer and necessary equipment in the booth.
@@ -21,7 +18,7 @@ This guide explains how to turn on the necessary equipment and operate ProPresen
 
 #### Step 1: Unlock the Computer
 - **Action**: Open the lock screen on the computer.
-- **Details**: Enter the password: `TableChurch102`.
+- **Details**: Enter the password. *(Ask a staff member for the password if needed)*
 - **Note**: *Do not* open ProPresenter or any other applications yet.
 
 #### Step 2: Turn On the Confidence Monitor TV
@@ -36,21 +33,13 @@ This guide explains how to turn on the necessary equipment and operate ProPresen
 - **Action**: Open ProPresenter on the computer.
 - **Details**: Ensure all three screens (confidence monitor and two stage screens) are on before opening the application.
 
-#### Step 5: Fix Camera Preview Glitch
-- **Action**: Adjust the input resolution to fix the camera preview.
-- **Details**: If you see green lines where the camera preview should be, press `Command + Comma` to open preferences.
-  - Go to `Inputs`.
-  - Select the dropdown on the camera feed.
-  - Choose a different input resolution, then reselect `720p 30`.
-  - This workaround is necessary due to a glitch with the budget HDMI capture card.
-
 ### Operating ProPresenter
 
 #### Songs
 - **General Rule**: Follow along with the band.
   - **Timing**: Click the slide a little before the current line of lyrics is finished. Ideally, click when singing the last word of the current line.
   - **Spontaneity**: Worship can be spontaneous. If the band jumps to a different part of the song, follow along and know your arrangement spot.
-  - **Key Mapping**: All sections of the song (verse, chorus, bridge, tag, etc.) start with a key mapping. This helps you quickly find your place if needed.
+  - **Key Mapping**: All sections of the song (verse, chorus, bridge, tag, etc.) start with a key mapping (a small orange letter on the first slide of the song section). This helps you quickly find your place or jump to a song section if needed.
 
 #### Sermon
 - **Timing**: Click through sermon slides differently than worship songs.
@@ -58,8 +47,11 @@ This guide explains how to turn on the necessary equipment and operate ProPresen
   - **Caution**: Do not click early to avoid revealing the point before the speaker does. Wait until you hear the verbal cue.
 
 ## Troubleshooting
-- **Camera Preview Issue**: If you encounter green lines in the camera preview, use the workaround described in Step 5.
-- **General Issues**: Refer to this guide or [contact Keith](sms:6307760550) for assistance.
+
+- **General Settings**: Press `Cmd + ,` to access all settings and click the relevant section.
+- **Screen Output Issues**: Press `Cmd + Opt + 1` to open the screen configuration window in ProPresenter.
+- **Livestream Issues**: For camera or audio issues, check the "Input" section in settings.
+- **Computer Audio**: Adjust the volume using the big "monitor" dial on the [Focusrite Scarlett 2i2 interface](https://m.media-amazon.com/images/I/61AhLyvWVqL._AC_SL1500_.jpg) next to the computer.
 
 ## Additional Resources
-- Contact: [Keith](sms:6307760550) for help or more information.
+- **Contact**: [Keith](sms:6307760550) for help or more information.
