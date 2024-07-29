@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Our Website": "https://thetablechurch.life",
+      "Website": "https://thetablechurch.life",
       "Church Center": "https://thetablechurchlemont.churchcenter.com",
     },
   }),
@@ -25,9 +25,9 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-//    Component.Search(),
+    Component.Search(),
     Component.Darkmode(),
-//    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.Graph(),
@@ -47,4 +47,8 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
+  document.addEventListener("themechange", (e) => {
+  console.log("Theme changed to " + e.detail.theme) // either "light" or "dark"
+  // your logic here
+})
 }
