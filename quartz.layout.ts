@@ -47,8 +47,4 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
-  document.addEventListener("themechange", (e) => {
-  console.log("Theme changed to " + e.detail.theme) // either "light" or "dark"
-  // your logic here
-})
 }
